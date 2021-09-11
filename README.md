@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Kaustav</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://banerjee.life">Kaustav</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaustav-banerjee-4b5053119/">LinkedIn</a> •
   <a href="https://www.instagram.com/kaustav_banerg/">Instagram</a> •
