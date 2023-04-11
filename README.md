@@ -8,7 +8,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working at [Setu](https://setu.co) :wink: as an Integration Engineer.
+- 👨🏽‍💻  I’m currently working at [Setu](https://setu.co) :wink: as an Integration Lead.
 - 🌱  I’m currently learning React and Go. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: kaustav@banerjee.life.
