@@ -8,8 +8,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working at [Setu](https://setu.co) :wink: as an Integration Lead.
-- 🌱  I’m currently learning React and Go. 
+- 👨🏽‍💻  I’m currently working at [Setu](https://setu.co) :wink: as a Senior engineering manager.
+- 🌱  I’m currently building [Life Arena](https://playlifearena.com) ( a PVP Conway's game of life) as a personal project. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: kaustav@banerjee.life.
 
