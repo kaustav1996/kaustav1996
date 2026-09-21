@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Reflex, a coding agent with System One reflexes">
+  <defs>
+    <pattern id="stripes" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="4" fill="#1e1e1e"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="#fefefe"/>
+  <rect x="6" y="6" width="1588" height="988" fill="#fefefe" stroke="#1e1e1e" stroke-width="8"/>
+  <rect x="6" y="6" width="1588" height="64" fill="url(#stripes)"/>
+  <rect x="640" y="14" width="320" height="48" fill="#fefefe"/>
+  <text x="800" y="48" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="700" fill="#1e1e1e">reflex</text>
+
+  <g transform="translate(150 250) scale(6.4)">
+    <rect x="1.5" y="1.5" width="25" height="25" fill="#f386a1" stroke="#1e1e1e" stroke-width="3"/>
+    <path d="M15.5 4 L8 15.5 H14 L12.5 24 L20 12.5 H14 Z" fill="#1e1e1e"/>
+  </g>
+  <text x="390" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="120" font-weight="800" fill="#1e1e1e">Reflex</text>
+  <text x="390" y="416" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="36" fill="#1e1e1e">a coding agent with System One reflexes</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30">
+    <rect x="150" y="490" width="1300" height="250" fill="#fefefe" stroke="#1e1e1e" stroke-width="4"/>
+    <rect x="150" y="490" width="1300" height="48" fill="#f386a1" stroke="#1e1e1e" stroke-width="4"/>
+    <text x="176" y="524" font-weight="700" fill="#1e1e1e">TYPESAFE action gate</text>
+    <text x="176" y="596" font-weight="700" fill="#1e1e1e">allow</text>
+    <text x="300" y="596" fill="#1e1e1e">npm test</text>
+    <text x="1424" y="596" text-anchor="end" fill="#6b6b6b">risk 0.01 @ 99%</text>
+    <text x="176" y="652" font-weight="700" fill="#1e1e1e">ask</text>
+    <text x="300" y="652" fill="#1e1e1e">git push --force origin main</text>
+    <text x="1424" y="652" text-anchor="end" fill="#6b6b6b">external 98%</text>
+    <text x="176" y="708" font-weight="700" fill="#1e1e1e">block</text>
+    <text x="300" y="708" fill="#1e1e1e">sudo rm -rf /var/log/*</text>
+    <text x="1424" y="708" text-anchor="end" fill="#6b6b6b">destructive 89%</text>
+  </g>
+
+  <text x="800" y="880" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" fill="#6b6b6b">every action judged in about 400 ms</text>
+</svg>
