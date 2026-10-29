@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-I run three engineering teams at [Setu](https://setu.co), a Pine Labs company, and build AI agent tooling in my own time. The work I enjoy most starts with a vague roadmap or a messy enterprise integration and ends with something that has structure and ships.
+I run four engineering teams at [Setu](https://setu.co), a Pine Labs company, and build AI agent tooling in my own time. The work I enjoy most starts with a vague roadmap or a messy enterprise integration and ends with something that has structure and ships.
 
 [banerjee.life](https://banerjee.life) · [LinkedIn](https://www.linkedin.com/in/kaustav-banerjee-4b5053119/) · [X](https://x.com/entropy1996) · [kaustav@banerjee.life](mailto:kaustav@banerjee.life)
 
@@ -33,7 +33,7 @@ Rust · PostgreSQL · Next.js · OAuth 2.1 · MCP
 
 ## At Setu
 
-Senior Engineering Manager for Solutions Engineering, QA Automation and Dev Support, with 24 engineers across the three. I have been at Setu since 2021.
+Senior Engineering Manager for Solutions Engineering, QA Automation, Dev Support and DevOps, with 33 engineers across the four. I have been at Setu since 2021.
 
 - Built the Solutions Engineering team from zero to nine people and cut ramp-up time by 40%.
 - Designed an automation portal run by MCP-enabled agents that halved client integration timelines.
